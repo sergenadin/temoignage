@@ -26,7 +26,7 @@ const testimonials = [
     name: 'Ahmed Ben Salah',
     country: 'Maroc',
     text:
-      "Je suis extrêmement satisfait des services du Laboratoire Monétaire. Leur expertise et leur professionnalisme ont été cruciaux pour garantir la qualité de nos billets ayant dépensé plus de 5 ans derrière des incapables. Ils ont été un partenaire essentiel dans notre réussite. Que le bonheur vous accompagne inchaalah.",
+      "Je suis extrêmement satisfait des services du Laboratoire Monétaire. Leur expertise et leur professionnalisme ont été cruciaux pour garantir la qualité de nos billets ayant dépensé plus de 5 ans derrière des incapables. Ils ont été un partenaire essentiel dans notre réussite. Que le bonheur vous accompagne pour toujours.",
       image: ahmedBenSalahImage,
       description: ".",
       likes: 100,
